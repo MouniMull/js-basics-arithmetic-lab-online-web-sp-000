@@ -14,4 +14,4 @@ const ageIsValid = Number.isInteger(42)
 
 const randomNumber = Math.floor(Math.random() * 10)
 
-const randomInteger = randomNumber.celing 
+const randomInteger = randomNumber
